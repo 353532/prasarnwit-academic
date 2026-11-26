@@ -1,4 +1,3 @@
-[Uploading index.html.html…]()
 <!doctype html>
 <html lang="th">
 <head>
